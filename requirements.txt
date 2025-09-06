@@ -10,3 +10,4 @@ werkzeug
 google-generativeai
 pydantic
 gunicorn
+email_validator
